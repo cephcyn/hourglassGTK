@@ -1,9 +1,9 @@
 ﻿using System;
 using Gtk;
 
-public partial class MainWindow : Gtk.Window
+public partial class TimerWindow : Gtk.Window
 {
-    public MainWindow() : base(Gtk.WindowType.Toplevel)
+    public TimerWindow() : base(Gtk.WindowType.Toplevel)
     {
         Build();
     }

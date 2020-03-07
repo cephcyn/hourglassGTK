@@ -8,7 +8,7 @@ namespace HourglassGTK
         public static void Main(string[] args)
         {
             Application.Init();
-            MainWindow win = new MainWindow();
+            TimerWindow win = new TimerWindow();
             win.Show();
             Application.Run();
         }

@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{57ABD07C-484F-407E-85BC-E0D7C6B15A72}|Default">
-  <MonoDevelop.Ide.ItemProperties.HourglassGTK FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HourglassGTK/MainWindow.cs">
+  <MonoDevelop.Ide.ItemProperties.HourglassGTK PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HourglassGTK/TimerWindow.cs">
     <Files>
-      <File FileName="HourglassGTK/Program.cs" Line="11" Column="33" />
-      <File FileName="HourglassGTK/MainWindow.cs" Line="4" Column="26" />
+      <File FileName="HourglassGTK/Program.cs" Line="10" Column="25" />
+      <File FileName="HourglassGTK/TimerWindow.cs" Line="9" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,7 +11,7 @@
           <Node name="HourglassGTK" expanded="True">
             <Node name="HourglassGTK" expanded="True">
               <Node name="UserInterface" expanded="True" />
-              <Node name="MainWindow.cs" selected="True" />
+              <Node name="TimerWindow.cs" selected="True" />
             </Node>
           </Node>
         </State>
